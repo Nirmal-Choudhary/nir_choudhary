@@ -1,10 +1,10 @@
 <h1 align="center">
- 👉My Github Profile👈 
+ Hii 👋, I Am Nirmal Choudhary
 </h1> 
-
-<h1 align="center" bg="red">
- Hii 🤚 I Am Nirmal Choudhary
-</h1> 
+<h2 align="center">
+ 👉Learner | Programmer | Creator👈 
+</h2>
+•How to reach me <a href"https://google.com">Google</a>
 
 
 
