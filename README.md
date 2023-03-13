@@ -5,16 +5,12 @@
  👉Learner | Programmer | Creator👈 
 </h2>
 
-• 📧 How to reach me nc17042002@gmail.com 
-
-
-
 <br/>
-
 # 💫 About Me:
 
 ⁕I am currently learning frontend web development<br>⁕Currely learning Reactjs<br>⁕All of my projects are available at-//https://github.com/Nirmal-Choudhary/
 
+• 📧 How to reach me nc17042002@gmail.com 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/creativenircodes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nirmal-choudhary-866051248/) 
