@@ -13,10 +13,10 @@
   <img src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-64.png" />
 </a>
 <!-- <a href="">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-64.png" />
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-64.png" style="width:20px" />
 </a>
 <a href="">
-  <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-64.png" />
+  <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-64.png" width="20px"/>
 </a> -->
 
 
