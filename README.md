@@ -4,7 +4,7 @@
 <h2 align="center">
  👉Learner | Programmer | Creator👈 
 </h2>
-•How to reach me <a href"https://google.com">Google</a>
+• 📧 How to reach me nc17042002@gmail.com
 
 
 
