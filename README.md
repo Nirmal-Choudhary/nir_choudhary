@@ -4,14 +4,16 @@
 <h2 align="center">
  👉Learner | Programmer | Creator👈 
 </h2>
-• 📧 How to reach me nc17042002@gmail.com <br/>
+
+• 📧 How to reach me nc17042002@gmail.com 
 
 
 
 <br/>
 
 # 💫 About Me:
-hii iam nirmal choudhary<br>i am currently learning frontend web development<br>currely learning reactjs<br>all of my projects are available at-https://https://github.com/Nirmal-Choudhary/
+
+⁕I am currently learning frontend web development<br>⁕Currely learning Reactjs<br>⁕All of my projects are available at-//https://github.com/Nirmal-Choudhary/
 
 
 ## 🌐 Socials:
