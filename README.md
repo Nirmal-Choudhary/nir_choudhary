@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-⁕I am currently learning frontend web development<br>⁕Currently learning Reactjs<br>⁕All of my projects are available at-//https://github.com/Nirmal-Choudhary/
+⁕I am currently learning FullStack Web Development<br>⁕Currently learning React Native<br>⁕All of my projects are available at-//https://github.com/Nirmal-Choudhary/
 
 • 📧 How to reach me nc17042002@gmail.com 
 
